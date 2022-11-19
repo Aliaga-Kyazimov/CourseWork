@@ -1,4 +1,0 @@
-Token_ya ='y0_AgAAAABmCI1kAADLWwAAAADTka1UoacHgCJpTlaqu6PKoEoI4Si79eA'
-Token_vk = 'vk1.a.oQbemOkVYTdpn17AWiP-WYn5U2vXg8cgX-8voKz3SqOzljY-hNtpL6av2Tp5nR-I1KtjdK1G96Niw86UD-E5O4KwK5_enONIAvHPh-9GC0uzfLDz-G2QfxW_6XRNysD8yhHyvbY59wp7SkJjrZsfTiCkHmKws7yTrxlh7lLmdyp-hl-lSTzST2UUas8Ok1u1wKCXqyV7nPj_3L12H8xrnA'
-user_vk_id = '51479776'
-
