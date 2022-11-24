@@ -35,7 +35,7 @@ class VkDownLoader:
                 file_information['file_name'] = str(photos['likes']['count']) + '.jpg'
             else:
                 file_information['file_name'] = str(photos['likes']['count']) + str(photos['date']) + '.jpg'
-            check_name.append(file_information['file_name'])
+            check_name.append(str(photos['likes']['count']))
             file_information['type'] = photos['sizes'][-1]['type']
             file_information['link'] = photos['sizes'][-1]['url']
             all_files.append(file_information)
